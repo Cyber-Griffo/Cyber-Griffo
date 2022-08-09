@@ -1,6 +1,5 @@
 ### Hi there, I'm Chris - aka [Cyber-Griffo] 👋
 
----
 
 ## I'm a Student, Developer and Designer!
 - 🔭 I’m currently working on a React-Native project
@@ -13,4 +12,3 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyber-Griffo)](https://github.com/anuraghazra/github-readme-stats)
