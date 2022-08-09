@@ -57,5 +57,10 @@
 ### 🎥 Latest Youtube Videos :
 
 <!-- YOUTUBE-LIST:START -->
+- [San Palma Episode 2 - Growing City &amp; Farming Industry](https://www.youtube.com/watch?v=_qld54jKmCQ)
+- [San Palma Episode 1 - A new City begins](https://www.youtube.com/watch?v=WLQgrwo4CFI)
+- [Minecraft HARDCORE S1:P4 - RELAXING HOUSEBUILDING](https://www.youtube.com/watch?v=2s6TQ_NJHSg)
+- [Minecraft HARDCORE S1:P3 - FIRST DIAMONDS!!](https://www.youtube.com/watch?v=QPdPNLmU4nA)
+- [Minecraft HARDCORE S1:P2 - Mineshaft](https://www.youtube.com/watch?v=xxoXSilQsQc)
 <!-- YOUTUBE-LIST:END -->
 
