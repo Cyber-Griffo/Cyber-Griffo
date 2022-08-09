@@ -1,3 +1,7 @@
+<div>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%">
+</div>
+
 ### Hi there, I'm Chris - aka [Cyber-Griffo] 👋
 
 
@@ -12,4 +16,4 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyber-Griffo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyber-Griffo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
