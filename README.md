@@ -17,10 +17,8 @@
 
 
 ## I'm a Student, Developer and Designer!
-- 🔭 I’m currently working on a React-Native project
-- 🌱 I’m currently learning React, React-Native and Firebase
-- 💬 Ask me about everything you like
-- 🥅 2022 Goals: becoming a better React-Native-Developer 🤣
+- 💬 Ask me about react / nextjs
+- 👨‍💻 All of my projects are available at [my Portfolio Page](https://www.christophgerling.com/)
 - ⚡ Fun fact: I love bouldering 🧗🏼‍♂️ and play water polo 🤽🏼‍♂️
 
 
